@@ -6,7 +6,7 @@
 - 🌍 Avid traveler and meticulous planner, thriving on problem-solving.
 - 🎙️ Experienced in communication, having conducted interviews with various professionals.
 - ⏰ Skilled in time management and attention to detail, honed through my previous role as a dental technician.
-- 🤝 Enjoys collaborating with motivated teams to achieve remarkable outcomes.
+- 🤝 Enjoy collaborating with motivated teams to achieve remarkable outcomes.
 
 ## Languages and Tools:
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
