@@ -7,6 +7,7 @@
 - 🎙️ Experienced in communication, having conducted interviews with various professionals.
 - ⏰ Skilled in time management and attention to detail, honed through my previous role as a dental technician.
 - 🤝 Enjoy collaborating with motivated teams to achieve remarkable outcomes.
+- 🎓 Currently studying data analytics at Turing College.
 
 ## Languages and Tools:
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
